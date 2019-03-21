@@ -51,13 +51,13 @@ Part II - Calculating Technical Analysis Indicators with Pandas
    prices in a market to characterize the trading band of a financial 
    instrument or commodity
    
--> Bollinger Bands are a [volatility] indicator (https://bit.ly/2qc3CVk)
+-> Bollinger Bands are a **volatility indicator** (https://bit.ly/2qc3CVk)
    
 -> Bollinger Bands bands are consists of Moving Average (MA) line, a 
    upper band and lower band. 
 
--> The upper and lower bands are simply MA adding and subtracting standa
-   rd deviation. 
+-> **The upper and lower bands are simply MA adding and subtracting stan
+   dard deviation.**
 
 -> Standard deviation is a measurment of volatility, that's why BB are a
    volatility indicator. 
